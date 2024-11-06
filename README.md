@@ -53,6 +53,15 @@ python time_tracker.py
    - Use keyboard shortcut ⌘⌥T (Command-Option-T) or click button to start/stop timer
    - Monitor time in the timer display
 
+![Time Tracker](./img/MainScreen.png)
+
+You can also produce reports and export data to CSV or PDF.
+![Reports](./img/ReportScreen.png)
+(I think the barchart isn't working quite yet.)
+
+And produce a billable hours report.
+![Billable Hours](./img/BillableSummary.png)
+
 3. Features:
    - **Project Management**: Create and select projects from the dropdown
    - **Categories**: Organize time entries with categories
