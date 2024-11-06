@@ -21,6 +21,7 @@ Currently tested with macOS only so far.
 ```bash
 git clone https://github.com/sethbarr/time_tracker.git
 cd time_tracker
+chmod +x time_tracker.py
 ```
 
 2. Create and activate a virtual environment (recommended):
