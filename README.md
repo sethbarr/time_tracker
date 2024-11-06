@@ -2,6 +2,8 @@
 
 A desktop application for tracking time spent on different projects, with support for billable hours and detailed reporting.
 
+Currently tested with macOS only so far. 
+
 ## Features
 
 - Track time with keyboard shortcuts (⌘⌥T for start/stop)
@@ -86,4 +88,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2 License - see the LICENSE file for details.
