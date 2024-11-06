@@ -1,11 +1,13 @@
 # Readme
 
-This is a simple app to track time. It allows you to start and stop a timer, and to see the total time tracked in each project within each category. 
+This is a simple app to track time. It allows you to start and stop a timer, and to see the total time tracked in each project within each category.
+
+Thus far, tested only on MacOS.
 
 ### Issues
-1. ~~Currently, the hot keys are not working. ~~
+1. ~~Currently, the hot keys are not working.~~
 2. ~~The app should detect inactivity and pause the timer. This feature isn't working.~~
-    2.1. App now checks in every 30min if the user is still on the same task.
+   1. App now checks in every 30min if the user is still on the same task.
 
 ### Improvements (wishlist)
 1. ~~Pop up to check if you are still on the same task every 30 minutes. Adjustable time.~~
