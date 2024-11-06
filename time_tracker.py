@@ -180,7 +180,7 @@ class TimeTrackerApp:
         
         self.start_button = ttk.Button(
             self.button_frame,
-            text="Start (⌘⌥T)",
+            text="Start (⌘T)", #⌥
             command=self.toggle_timer
         )
         self.start_button.pack(side=tk.LEFT, padx=5)
